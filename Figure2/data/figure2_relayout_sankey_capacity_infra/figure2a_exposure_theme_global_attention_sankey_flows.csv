@@ -1,0 +1,37 @@
+﻿domain,stage,source,target,gcc_points,coastline_share_pct
+ESL,exposure_to_theme_attention,Low,Low,282977,43.18446453778948
+ESL,exposure_to_theme_attention,Low,Moderate,129605,19.778718858494525
+ESL,exposure_to_theme_attention,Low,High,40180,6.1317767349586045
+ESL,exposure_to_theme_attention,Moderate,Low,37747,5.7604822402807985
+ESL,exposure_to_theme_attention,Moderate,Moderate,19726,3.0103391705772387
+ESL,exposure_to_theme_attention,Moderate,High,7856,1.1988859639082827
+ESL,exposure_to_theme_attention,High,Low,70577,10.770592499332341
+ESL,exposure_to_theme_attention,High,Moderate,39599,6.0431116706726185
+ESL,exposure_to_theme_attention,High,High,27008,4.121628323986113
+ESL,theme_attention_to_global_attention,Low,Cold spots,168050,25.645721262065546
+ESL,theme_attention_to_global_attention,Low,Other classes,223251,34.06981801533707
+ESL,theme_attention_to_global_attention,Low,Hot spots,0,0.0
+ESL,theme_attention_to_global_attention,Moderate,Cold spots,202,0.030826752126969597
+ESL,theme_attention_to_global_attention,Moderate,Other classes,178525,27.244286749837855
+ESL,theme_attention_to_global_attention,Moderate,Hot spots,10203,1.5570561977795583
+ESL,theme_attention_to_global_attention,High,Cold spots,0,0.0
+ESL,theme_attention_to_global_attention,High,Other classes,22525,3.4374880775247036
+ESL,theme_attention_to_global_attention,High,Hot spots,52519,8.014802945328297
+Eutrophication,exposure_to_theme_attention,Low,Low,195750,29.872954103239096
+Eutrophication,exposure_to_theme_attention,Low,Moderate,133564,20.38289267864637
+Eutrophication,exposure_to_theme_attention,Low,High,45981,7.017053908664302
+Eutrophication,exposure_to_theme_attention,Moderate,Low,36269,5.534928083629011
+Eutrophication,exposure_to_theme_attention,Moderate,Moderate,20238,3.088474304681241
+Eutrophication,exposure_to_theme_attention,Moderate,High,15755,2.404334058219831
+Eutrophication,exposure_to_theme_attention,High,Low,80207,12.240204494296288
+Eutrophication,exposure_to_theme_attention,High,Moderate,70618,10.776849414368012
+Eutrophication,exposure_to_theme_attention,High,High,56893,8.682308954255847
+Eutrophication,theme_attention_to_global_attention,Low,Cold spots,168250,25.676242798824923
+Eutrophication,theme_attention_to_global_attention,Low,Other classes,143976,21.971843882339474
+Eutrophication,theme_attention_to_global_attention,Low,Hot spots,0,0.0
+Eutrophication,theme_attention_to_global_attention,Moderate,Cold spots,2,0.00030521536759375834
+Eutrophication,theme_attention_to_global_attention,Moderate,Other classes,221482,33.79985502270039
+Eutrophication,theme_attention_to_global_attention,Moderate,Hot spots,2936,0.44805615962763723
+Eutrophication,theme_attention_to_global_attention,High,Cold spots,0,0.0
+Eutrophication,theme_attention_to_global_attention,High,Other classes,58843,8.97989393765976
+Eutrophication,theme_attention_to_global_attention,High,Hot spots,59786,9.123802983480218

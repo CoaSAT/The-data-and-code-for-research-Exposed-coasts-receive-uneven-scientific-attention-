@@ -1,0 +1,12 @@
+raw_path=H:\Coastal SCI Attention\提交\CoastalAttention_Reproducibility\Figure1\data\gcc_attention_2deg\gcc_attention_from_2deg_buffer_window.csv
+n_points=728088
+longitude_bins=180
+latitude_bins=135
+longitude_total_studies_max=21899.0000
+latitude_total_studies_max=19391.0000
+profile_source=None
+profile_n_points=315
+attention_bins=[{"label": "<150", "low": null, "high": 150}, {"label": "150-600", "low": 150, "high": 600.0}, {"label": "600-1500", "low": 600.0, "high": 1500.0}, {"label": "1500-3000", "low": 1500.0, "high": 3000}, {"label": ">3000", "low": 3000, "high": null}]
+coastline_share={"Cold spots": 25.381684631528056, "Intermediate": 64.43657909483468, "Hot spots": 10.181736273637252}
+panel_b=coastline share by cold/intermediate/hot attention class
+panel_c_lorenz=H:\Coastal SCI Attention\提交\CoastalAttention_Reproducibility\Figure1\data\figure1_caci\figure1_caci_lorenz_curve_downsampled.csv
